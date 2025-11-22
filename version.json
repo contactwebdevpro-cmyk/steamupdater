@@ -1,5 +1,5 @@
 {
   "version": "2.0.1",
   "download_url": "https://github.com/contactwebdevpro-cmyk/steamupdater/releases/download/v2.0.1/SUT.exe",
-  "changelog": "- Correction de bugs\n- Amélioration des performances\n- Nouvelles fonctionnalités"
+  "changelog": "- Système de mise à jour automatique\n- Interface moderne\n- Vérification temps réel"
 }
