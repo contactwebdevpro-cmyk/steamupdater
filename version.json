@@ -1,5 +1,5 @@
 {
-  "version": "4.3.0",
+  "version": "4.4.0",
   "download_url": "https://github.com/contactwebdevpro-cmyk/steamupdater/releases/download/v2.0.1/SUT.exe",
-  "changelog": "- Affichage des details en cliquant sur un jeu."
+  "changelog": "- Réparation du boutton de désinstallation"
 }
